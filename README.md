@@ -2,6 +2,10 @@
 This is a program to arrange your files according to their types.It means if you have a folder/directory which contains Musics,Videos,Images,Pdf etc files,and you want
 to arrange them in individual directories this program will help you.
 
+HOW IT WORKS:
+The code will check all the files in the directory and create new directories in that directory according to the file types.The it will move the files one by one to 
+their repective directories.
+
 HOW TO RUN:
 1.Copy this code
 2.Open the Directory where you want to run this Code
