@@ -85,4 +85,4 @@ for item in files_in_basepath:
 end=process_time()             #End of CPU time
 print("\nTotal time taken for moving files:{} Seconds.".format((end-start)))
 
-
+#Steps to run this code are given in the README file.Please check that once.
