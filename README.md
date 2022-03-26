@@ -3,8 +3,8 @@ This is a program to arrange your files according to their types.It means if you
 to arrange them in individual directories this program will help you.
 
 HOW IT WORKS:
-The code will check all the files in the directory and create new directories in that directory according to the file types.The it will move the files one by one to 
-their repective directories.
+The code will check all the files in the directory and create new directories in that directory according to the file types.Then it will move the files one by one to 
+their respective directories.
 
 HOW TO RUN:
 1.Copy this code
